@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* Well the lesson have been amazing i got to know a lot of new elements like figure and all and its function.
+* HTML coding has been pretty easy.
+* I didnt face much problem with coding but i did face problems in quizs where the udacity evalutor failed to work in firefox and i had to switch to chrome.Kinda spent a lot of time there.
+* MDN has been my go to guide in case of all problems and understood each elements working from its docs.
